@@ -1,4 +1,4 @@
 # Data-science-project- 
-This is NN on Titanic Project
-CNN on MNIST Project
+This is NN on Titanic Project and 
+CNN on MNIST Project and 
 Restock_Price RNN project 
